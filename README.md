@@ -1,18 +1,13 @@
-# Vuetify (Default)
+# Agenda de contatos feita em Vuejs 3(com vuetify e vue-router)
 
-This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
+o objetivo é criar um site com login, lista de contatos com variadas funções(uso de componentes), Axios API, ViaCep e rotas (incluindo páginas de NotFound e NotAuthorized).
 
-## ❗️ Important Links
-
+## ❗️ Links Importante
 - 📄 [Docs](https://vuetifyjs.com/)
-- 🚨 [Issues](https://issues.vuetifyjs.com/)
-- 🏬 [Store](https://store.vuetifyjs.com/)
-- 🎮 [Playground](https://play.vuetifyjs.com/)
-- 💬 [Discord](https://community.vuetifyjs.com)
+- 
+## 💿 Instalação
 
-## 💿 Install
-
-Set up your project using your preferred package manager. Use the corresponding command to install the dependencies:
+Utilize seu pacote para fazer a instalação de dependências!
 
 | Package Manager                                                | Command        |
 |---------------------------------------------------------------|----------------|
@@ -37,11 +32,10 @@ These features are curated to provide a seamless development experience from set
 
 ## 💡 Usage
 
-This section covers how to start the development server and build your project for production.
+O uso é para teste de minhas habilidades, sem uso de autenticação ou de servidor para armazenar dados cadastrados no site.
 
-### Starting the Development Server
-
-To start the development server with hot-reload, run the following command. The server will be accessible at [http://localhost:3000](http://localhost:3000):
+### Teste do site
+Utilizando no terminal: "npm run dev", o site torna-se acessível por meio do: [http://localhost:3000](http://localhost:3000):
 
 ```bash
 yarn dev
