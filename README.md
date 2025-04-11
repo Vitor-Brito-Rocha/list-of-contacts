@@ -59,8 +59,11 @@ Once the build process is completed, your application will be ready for deployme
 
 This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library with a comprehensive collection of Vue components. Vuetify is an MIT licensed Open Source project that has been made possible due to the generous contributions by our [sponsors and backers](https://vuetifyjs.com/introduction/sponsors-and-backers/). If you are interested in supporting this project, please consider:
 
-[Email](mailto:vitorbritorochaa@gmail.com)
-[Linkedin](https://www.linkedin.com/in/vitor-rocha-557317348/)
+### · [Email](mailto:vitorbritorochaa@gmail.com)
+
+
+### · [Linkedin](https://www.linkedin.com/in/vitor-rocha-557317348/)
+
 
 ## 📑 License
 [MIT](http://opensource.org/licenses/MIT)
