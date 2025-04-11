@@ -1,7 +1,8 @@
-# List of Contacts made with Vuetify and Vue-Router - English edition of README.md
+# List of Contacts made with Vuetify, Vue-Router, Axios API and ViaCep - English edition of README.md
 
-This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
-
+Using Vue JS and some libraries, I created a list of contacts.
+It's functionality is based on Not Authorized pages(views), Not Found, Login page, Contact list page and components, such as modals of editting, viewing and adding.
+Also contains ViaCep, that searches the adress of the new contact when the user types the CEP(Postal Adress Code inside Brazilian territory). Received the JSON with Axios API
 ## ❗️ Important Links
 
 - 📄 [Docs](https://vuetifyjs.com/)
