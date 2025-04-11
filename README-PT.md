@@ -61,6 +61,12 @@ Após o processo, sua aplicação estará pronta para ser publicada em ambiente 
 
 ## 💪 Apoie o Desenvolvimento o desenvolvedor front-end Vitor Brito Rocha!
 
+### · [Email](mailto:vitorbritorochaa@gmail.com)
+
+
+### · [Linkedin](https://www.linkedin.com/in/vitor-rocha-557317348/)
+
+
 Contribuia com sugestões ou edições no código!
 
 
