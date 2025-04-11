@@ -1,13 +1,14 @@
-# Agenda de contatos feita em Vuejs 3(com vuetify e vue-router)
+# List of Contacts made with Vuetify and Vue-Router - English edition of README.md
 
-o objetivo é criar um site com login, lista de contatos com variadas funções(uso de componentes), Axios API, ViaCep e rotas (incluindo páginas de NotFound e NotAuthorized).
+This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
 
-## ❗️ Links Importante
+## ❗️ Important Links
+
 - 📄 [Docs](https://vuetifyjs.com/)
-- 
-## 💿 Instalação
 
-Utilize seu pacote para fazer a instalação de dependências!
+## 💿 Install
+
+Set up your project using your preferred package manager. Use the corresponding command to install the dependencies:
 
 | Package Manager                                                | Command        |
 |---------------------------------------------------------------|----------------|
@@ -32,10 +33,11 @@ These features are curated to provide a seamless development experience from set
 
 ## 💡 Usage
 
-O uso é para teste de minhas habilidades, sem uso de autenticação ou de servidor para armazenar dados cadastrados no site.
+Can be used to analyse the behaviour of website and my skills on vue(and its libraries).
 
-### Teste do site
-Utilizando no terminal: "npm run dev", o site torna-se acessível por meio do: [http://localhost:3000](http://localhost:3000):
+### Starting the Development Server
+
+To start the development server with hot-reload, run the following command. The server will be accessible at [http://localhost:3000](http://localhost:3000):
 
 ```bash
 yarn dev
