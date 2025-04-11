@@ -1,6 +1,8 @@
-# Lista de Contatos com Vuetify e Vue-Router
+# Lista de Contatos com Vuetify, Vue-Router, Axios API e ViaCep 
 
-Este é o gerador de projeto oficial do Vuetify, criado para te dar um empurrão inicial na construção da sua aplicação com Vuetify. Ele configura um template base com todas as dependências e estrutura de pastas necessárias, permitindo que você comece o desenvolvimento sem ter que montar tudo do zero.
+Utilizando Vue JS e algumas bibliotecas, criei uma lista de contatos.
+Sua funcionalidade é baseada em páginas Not Authorized(401), Not Found (404), página de Login, página de Lista de Contatos e componentes, como modos de edição, visualização e adição.
+Contém também o ViaCep, que busca o endereço do novo contato quando o usuário digita o CEP (Código de Endereçamento Postal em território brasileiro). Recebi o JSON com a API do Axios.
 
 ## ❗️ Links Importantes
 
